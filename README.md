@@ -482,6 +482,3 @@
 进行许可。
 </div>
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/easy-vibe&type=date&legend=top-left)](https://www.star-history.com/#datawhalechina/easy-vibe&type=date&legend=top-left)
